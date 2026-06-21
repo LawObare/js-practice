@@ -77,3 +77,16 @@ hr {
 #Skills {
     background-color: bisque;
 }
+
+#Projects {
+    background-color: beige;
+}
+
+li {
+    padding: 3px;
+    text-indent: 30px;
+}
+
+pre {
+    font-family: Candara;
+}
