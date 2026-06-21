@@ -8,6 +8,30 @@ body {
     text-align: center;
     line-height: 0.8;
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+}
+
+ul li {
+    float: left;
+}
+
+ul li a {
+    display: block;
+    background-color: rgb(64, 64, 64);
+    color: White;
+    padding: 14px 16px;
+    text-align: centre;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    background-color: grey;
+}
 .Profile {
     display: flex;
     justify-content: center;
@@ -20,6 +44,12 @@ body {
     height: 70px;
     border-radius: 50%;
     object-fit: cover;
+}
+
+p {
+    max-width: auto;
+    text-align: left;
+    padding: 24px;
 }
 
 hr {
