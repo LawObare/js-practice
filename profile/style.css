@@ -1,0 +1,13 @@
+body {
+    font-family: Candara;
+}
+.title {
+    font-style: italic;
+    font-family: Candara;
+    text-align: center;
+}
+hr {
+    background-color: black;
+    height: 1px;
+    border: none;
+}
