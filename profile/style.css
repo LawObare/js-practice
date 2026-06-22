@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    font-family: Candara;
+    font-family: Candara, Verdana;
     font-size: medium;
     line-height: 150%;
     text-align: justify;
@@ -11,7 +11,7 @@ body {
 
 .title {
     font-style: italic;
-    font-family: Candara;
+    font-family: Candara, Verdana;
     text-align: center;
     line-height: 0.8;
 }
@@ -23,13 +23,14 @@ ul {
     margin: 0;
     padding: 0;
     overflow: auto;
+    align-items: center;
 }
 
 ul li a {
     display: block;
     color: White;
-    padding: 14px 16px;
-    text-align: centre;
+    padding: 16px 14px;
+    text-align: left;
     text-decoration: none;
 }
 
