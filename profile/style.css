@@ -90,3 +90,8 @@ li {
 pre {
     font-family: Candara;
 }
+
+#Contacts {
+    color: white;
+    background-color: rgb(75, 74, 74);
+}
