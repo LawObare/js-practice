@@ -17,15 +17,12 @@ body {
 }
 
 ul {
+    display: flex;
     list-style-type: none;
     background-color: rgb(64, 64, 64);
     margin: 0;
     padding: 0;
     overflow: auto;
-}
-
-ul li {
-    float: left;
 }
 
 ul li a {
